@@ -124,6 +124,7 @@ audio
     margin: 0;
     padding: 0;
     position: absolute;
-    top: 50%;
+    top: 60%;
     left: 10%;
+    size: 5em;
 } 
